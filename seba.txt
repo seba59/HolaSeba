@@ -1,4 +1,5 @@
-hola soy Sebastian Godoy Ureta.
+hola soy Sebastian Godoy Ureta. 1.0
+otra nueva aventura que contar.
 
 
 Git y Github: Curso desde cero [Tutorial en Español] #clasesConBluuweb
