@@ -1,0 +1,7 @@
+hola soy Sebastian Godoy Ureta.
+
+
+Git y Github: Curso desde cero [Tutorial en Español] #clasesConBluuweb
+
+eliminacion de URL Remota
+https://www.delftstack.com/es/howto/git/how-to-remove-a-git-remote-url/
